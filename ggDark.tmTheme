@@ -7,7 +7,7 @@
 <plist version="1.0">
 <dict>
 	<key>name</key>
-	<string>gg-dark</string>
+	<string>ggDark</string>
 	<key>semanticClass</key>
 	<string>theme.dark.gg_dark</string>
 	<key>gutterSettings</key>
@@ -2046,6 +2046,6 @@
 	<key>author</key>
 	<string>Giorgio Gelardi</string>
 	<key>comment</key>
-	<string>my eye-relaxing theme.</string>
+	<string></string>
 </dict>
 </plist>
