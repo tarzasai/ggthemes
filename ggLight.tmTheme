@@ -18,11 +18,11 @@
 				<key>background</key>
 				<string>#FFFFFF</string>
 				<key>caret</key>
-				<string>#000000</string>
+				<string>#0D68BD</string>
 				<key>foreground</key>
 				<string>#000000</string>
 				<key>invisibles</key>
-				<string>#BFBFBF</string>
+				<string>#B57777</string>
 				<key>lineHighlight</key>
 				<string>#00000012</string>
 				<key>selection</key>
@@ -430,12 +430,23 @@
 				<string> bold</string>
 			</dict>
 		</dict>
+		<dict>
+			<key>name</key>
+			<string>JSON: String</string>
+			<key>scope</key>
+			<string>string.quoted.double.json</string>
+			<key>settings</key>
+			<dict>
+				<key>foreground</key>
+				<string>#0000FF</string>
+			</dict>
+		</dict>
 	</array>
 	<key>uuid</key>
 	<string>ADD7FDE7-C6BE-454B-A71A-7951ED54FB04</string>
 	<key>colorSpaceName</key>
 	<string>sRGB</string>
 	<key>semanticClass</key>
-	<string>theme.light.visual_studio</string>
+	<string>theme.light.gg_light</string>
 </dict>
 </plist>
